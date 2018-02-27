@@ -1,0 +1,8 @@
+c:\users\s528751\source\repos\MyFirstMVCApp\MyFirstMVCApp.Data\bin\Debug\MyFirstMVCApp.Data.dll
+c:\users\s528751\source\repos\MyFirstMVCApp\MyFirstMVCApp.Data\bin\Debug\MyFirstMVCApp.Data.pdb
+c:\users\s528751\source\repos\MyFirstMVCApp\MyFirstMVCApp.Data\bin\Debug\MyFirstMVCApp.Entities.dll
+c:\users\s528751\source\repos\MyFirstMVCApp\MyFirstMVCApp.Data\bin\Debug\MyFirstMVCApp.Entities.pdb
+c:\users\s528751\source\repos\MyFirstMVCApp\MyFirstMVCApp.Data\obj\Debug\MyFirstMVCApp.Data.csprojResolveAssemblyReference.cache
+c:\users\s528751\source\repos\MyFirstMVCApp\MyFirstMVCApp.Data\obj\Debug\MyFirstMVCApp.Data.csproj.CoreCompileInputs.cache
+c:\users\s528751\source\repos\MyFirstMVCApp\MyFirstMVCApp.Data\obj\Debug\MyFirstMVCApp.Data.dll
+c:\users\s528751\source\repos\MyFirstMVCApp\MyFirstMVCApp.Data\obj\Debug\MyFirstMVCApp.Data.pdb

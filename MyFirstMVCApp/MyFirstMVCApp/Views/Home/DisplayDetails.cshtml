@@ -1,0 +1,50 @@
+﻿@model MyFirstMVCApp.Entities.Professor
+
+@{
+    ViewBag.Title = "DisplayDetails";
+}
+
+<h2>DisplayDetails</h2>
+
+<div>
+    <h4>Professor</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DepartmentName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DepartmentName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ProfessorID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProfessorID)
+        </dd>
+
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ProfessorID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

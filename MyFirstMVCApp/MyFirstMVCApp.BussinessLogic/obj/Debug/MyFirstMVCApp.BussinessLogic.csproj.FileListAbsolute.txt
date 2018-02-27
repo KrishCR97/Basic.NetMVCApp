@@ -1,0 +1,10 @@
+c:\users\s528751\source\repos\MyFirstMVCApp\MyFirstMVCApp.BussinessLogic\bin\Debug\MyFirstMVCApp.BussinessLogic.dll
+c:\users\s528751\source\repos\MyFirstMVCApp\MyFirstMVCApp.BussinessLogic\bin\Debug\MyFirstMVCApp.BussinessLogic.pdb
+c:\users\s528751\source\repos\MyFirstMVCApp\MyFirstMVCApp.BussinessLogic\bin\Debug\MyFirstMVCApp.Data.dll
+c:\users\s528751\source\repos\MyFirstMVCApp\MyFirstMVCApp.BussinessLogic\bin\Debug\MyFirstMVCApp.Entities.dll
+c:\users\s528751\source\repos\MyFirstMVCApp\MyFirstMVCApp.BussinessLogic\bin\Debug\MyFirstMVCApp.Data.pdb
+c:\users\s528751\source\repos\MyFirstMVCApp\MyFirstMVCApp.BussinessLogic\bin\Debug\MyFirstMVCApp.Entities.pdb
+c:\users\s528751\source\repos\MyFirstMVCApp\MyFirstMVCApp.BussinessLogic\obj\Debug\MyFirstMVCApp.BussinessLogic.csprojResolveAssemblyReference.cache
+c:\users\s528751\source\repos\MyFirstMVCApp\MyFirstMVCApp.BussinessLogic\obj\Debug\MyFirstMVCApp.BussinessLogic.csproj.CoreCompileInputs.cache
+c:\users\s528751\source\repos\MyFirstMVCApp\MyFirstMVCApp.BussinessLogic\obj\Debug\MyFirstMVCApp.BussinessLogic.dll
+c:\users\s528751\source\repos\MyFirstMVCApp\MyFirstMVCApp.BussinessLogic\obj\Debug\MyFirstMVCApp.BussinessLogic.pdb
